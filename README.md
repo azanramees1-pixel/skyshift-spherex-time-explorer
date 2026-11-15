@@ -23,7 +23,7 @@ The displayed campaign visuals are genuine NASA-published SPHEREx imagery, but t
 
 ## Attribution
 
-Image credits: NASA/SPHEREx and NASA/JPL-Caltech. Archive and calibrated spectral image data: NASA/IPAC Infrared Science Archive (IRSA). This student prototype is not an official NASA product.
+Image credits: NASA/SPHEREx and NASA/JPL-Caltech. Archive and calibrated spectral image data: NASA/IPAC Infrared Science Archive (IRSA). This student prototype is not an official NASA product. AI-use disclosure: ChatGPT helped create and revise parts of the website code, layout, and explanatory text. NASA images and science data are from the linked NASA/IRSA sources and were not AI-generated or modified. The decorative comet scene is drawn with CSS; no AI-generated images, video, or audio are used.
 
 ## Suggested improvements
 
